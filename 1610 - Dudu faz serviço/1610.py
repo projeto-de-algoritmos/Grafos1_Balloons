@@ -1,17 +1,17 @@
 '''
 This problem detects with there is a cicle in a graph.
 We use DFS and represent our graph with an adjacency 
-matrix. In this problem we have a directed graph.
+list. In this problem we have a directed graph.
 '''
 
 # Guarantees that the online judge's recursion stack will not overflow
 import sys
 sys.setrecursionlimit(1048576)
 
-# Adjacency matrix
+# Adjacency list
 dependencies = []
 
-# Visited vector
+# Visited list
 visited_dependencies = []
 
 has_cicle = False
@@ -59,7 +59,7 @@ for i in range(test_cases):
     visited_dependencies.clear()
     has_cicle = False
 
-    # Initialize adjacency matrix and visited vector
+    # Initialize adjacency list and visited list
     for _ in range(amount_of_documents):
         vertex_list = []
         dependencies.append(vertex_list)
