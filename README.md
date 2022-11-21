@@ -1,6 +1,6 @@
 # Balloons 🎈
 
-**Número da Lista**: X<br>
+**Dupla 10**<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
@@ -17,7 +17,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagens**: Python e C++<br>
-**Framework**: (caso exista)<br>
+**Framework**: -- <br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 

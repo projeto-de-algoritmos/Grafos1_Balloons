@@ -30,3 +30,6 @@ Seu programa deve imprimir "COPS" se os Cops forem os vencedores e "ROBBERS" cas
 | **Exemplos de Entrada** | **Exemplos de Saída** |
 |-------------------------|---------------------|
 | 2 <br><br> 0 0 0 0 1<br> 1 1 0 0 1<br>0 1 0 0 0<br>0 0 0 1 1<br>1 1 0 0 0<br><br>0 0 0 0 1<br>1 1 0 0 1<br>0 1 0 0 0<br>0 0 1 1 1<br>1 1 0 0 0  | COPS <br> ROBBERS|
+
+### **Resultado**
+![](1905.png)

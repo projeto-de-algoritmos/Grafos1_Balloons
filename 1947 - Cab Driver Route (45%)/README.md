@@ -38,4 +38,5 @@ Para cada caso de teste você deve imprimir uma linha contendo um inteiro, repre
 |-------------------------|---------------------|
 |5 7 3<br>1 2 3<br>1 3 7<br>1 4 5<br>2 3 2<br>3 4 6<br>3 5 5<br>4 5 3<br>2 4<br>4 5<br>1 3<br> |26 |
 
-
+### **Resultado**
+![](1947.png)
