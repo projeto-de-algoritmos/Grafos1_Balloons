@@ -22,3 +22,8 @@ Imprima uma linha contendo um único inteiro que represente o número de cliques
 |6 9 <br>.ooo.ooo.<br>o...o...o<br>.o.....o.<br>..o...o..<br>...o.o...<br>....o....| 6 |
 |1 8<br>.o.o.o.o| 4 |
 |1 1<br>o| 0 |
+
+
+### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/203200441-9591e3e8-ee89-40f5-a774-6bd8569d3ed1.png)
