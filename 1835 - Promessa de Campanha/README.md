@@ -29,3 +29,8 @@ Ao final de cada mensagem deve ser impressa uma quebra de linha.
 | **Exemplos de Entrada** | **Exemplos de Saída** |
 |-----|-----|
 |4<br>3<br>2<br>1 3<br>2 3<br>4<br>2<br>1 2<br>3 4<br>3<br>0<br>6<br>5<br>1 2<br>1 3<br>1 4<br>2 3<br>3 4|Caso #1: a promessa foi cumprida<br>Caso #2: ainda falta(m) 1 estrada(s)<br>Caso #3: ainda falta(m) 2 estrada(s)<br>Caso #4: ainda falta(m) 2 estrada(s)|
+
+### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/203200149-7aa183d4-4659-4e9f-821a-77dcc41e7f80.png)
+
