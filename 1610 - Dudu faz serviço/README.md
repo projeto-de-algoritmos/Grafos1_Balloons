@@ -27,4 +27,8 @@ Para cada caso, imprima SIM caso exista pelo menos um loop e NAO caso contrário
 
 | **Exemplo de Entrada** | **Exemplo de Saída**|
 |-------|--------|
-|3<br>2 1<br>1 2<br>2 2<br>1 2<br>2 1<br>4 4<br>2 3<br>3 4<br>4 2<br>1 3|NAO<br>SIM<br>SIM
+|3<br>2 1<br>1 2<br>2 2<br>1 2<br>2 1<br>4 4<br>2 3<br>3 4<br>4 2<br>1 3|NAO<br>SIM<br>SIM|
+
+### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/203200327-aaef1c41-a62b-471a-85b1-1a91f71afff9.png)
