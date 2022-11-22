@@ -9,8 +9,16 @@
 | 17/0011020  |  Gabrielle Ribeiro Gomes |
 | 20/2016462  |  Heitor Marques S. Barbosa |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre  
+
+Esse projeto tem como objetivo trazer a resolução de questões de programação competitiva utilizando grafos.
+
+Foram resolvidas 6 questões retiradas do Juíz online [Beecrowd](https://www.beecrowd.com.br/).
+
+Cada questão está em uma pasta, onde se encontra um README com a descrição do problema, bem como exemplos de entrada e saída. E o veredito recebido do juíz online.
+
+**P.S.:** O projeto se chama Balloons porque nas maratonas de programação presenciais, a cada problema resolvido se ganha um balão. 😊
+
 
 ## Screenshots
 
